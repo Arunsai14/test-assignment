@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "name" : "Chandigarh",
+      "date_established" : 1953,
+      "places_to_visit" : ["sector 17", "elante mall","Sukhna lake"]
+     
+    },
+    {
+      "name" : "New Delhi",
+      "date_established" : 1912,
+      "places_to_visit" : ["Rashtrapati bhawan", "Red Fort"]
+     
+    }
+    ]
+}
